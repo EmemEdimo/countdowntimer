@@ -24,7 +24,7 @@ body {
 
 .title {
   margin-top: 10rem;
-  font-size: 6rem;
+  font-size: 4rem;
   font-weight: normal;
   text-align: center;
 }
@@ -36,20 +36,20 @@ body {
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  gap: 11rem;
-  margin-top: 6rem;
+  gap: 9rem;
+  margin-top: 5rem;
 }
 
 .counters {
   display: flex;
   flex-direction: column;
-  font-size: 10rem;
+  font-size: 8rem;
   font-weight: 600;
   line-height: 1;
 }
 
 .counters span {
-  font-size: 3.5rem;
+  font-size: 2.5rem;
   font-weight: 100;
 }
 
