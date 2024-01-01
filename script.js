@@ -5,7 +5,7 @@ const hoursEl = document.querySelector('.hoursEl');
 const minutesEl = document.querySelector('.minutesEl');
 const secondsEl = document.querySelector('.secondsEl');
 
-const expectedDay = '1 Jan 2024';
+const expectedDay = '8 March 2024';
 
 const countDown = function () {
   const expectedDate = new Date(expectedDay);
